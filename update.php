@@ -34,6 +34,7 @@
       <th>Age</th>
       <th>Location</th>
       <th>Date</th>
+      <th>Edit</th>
     </tr>
   </thead>
   <tbody>
